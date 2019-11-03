@@ -20,7 +20,7 @@ We use the method described in the paper for image inpainting. We randomly delet
     <img src='imgs/progress1.gif' height="256">
 </div>
 
-The images used are the standard **Lena** and **Barbara** test images. The progress in the initial iterations is shown on the rightmost column.
+The images used are the standard **Lena** and **Barbara** test images. The input and resultant images are as shown.The progress in the initial iterations is shown on the rightmost column.
 
 ### 80% pixels removed
 <div align='center'>
