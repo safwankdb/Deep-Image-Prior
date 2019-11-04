@@ -2,8 +2,8 @@
 
 PyTorch implementation of the CVPR 2018 paper [Deep Image Prior](https://dmitryulyanov.github.io/deep_image_prior) by Dmitry Ulyanov et. al. This codebase is a part of final project for CS 663: Fundamentals of Digital Image Processing at IITB. The team members are:
 
-- [Mohd Safwan](https://github.com/safwankdb)
-- Manas Vasishtha
+- [Mohd Safwan](https://safwankdb.github.io)
+- [Manas Vashistha](https://home.iitb.ac.in/~manasv)
 - Sumrit Gupta
 
 We use the method described in the paper for image inpainting. We randomly delete some pixels of a 512*512 RGB image and then try to fill them using the said technique.
