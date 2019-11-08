@@ -17,7 +17,7 @@ We use the method described in the paper for image inpainting. We randomly delet
     <img src='imgs/lena_progress.gif' height="256">
     <img src='imgs/start.jpg' height="256">
     <img src='imgs/final.jpg' height="256">
-    <img src='imgs/progress1.gif' height="256">
+    <img src='imgs/barbara_progress.gif' height="256">
 </div>
 
 The images used are the standard **Lena** and **Barbara** test images. The input and resultant images are as shown.The progress in the initial iterations is shown on the rightmost column.
