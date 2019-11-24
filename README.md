@@ -26,7 +26,7 @@ The images used are the standard **Lena** and **Barbara** test images. The input
 <div align='center'>
     <img src='imgs/lena20_start.jpg' height="256">
     <img src='imgs/lena20_final.jpg' height="256">
-    <img src='imgs/lena20_progress.gif' height="256">
+    <!-- <img src='imgs/lena20_progress.gif' height="256"> -->
 </div>
 
 ## Training
