@@ -29,6 +29,13 @@ The images used are the standard **Lena** and **Barbara** test images. The input
     <img src='imgs/lena20_progress.gif' height="256">
 </div>
 
+## Training
+This are the loss curves we obtained during the training on 50% and 80% images respectively. We can observe that the reconstruction loss decreases to negligible value within very few iterations.
+<div align='center'>
+    <img src='imgs/loss.jpg' height="256">
+    <img src='imgs/loss2.jpg' height="256">
+</div>
+
 ## References
 1. **Dmitry Ulyanov et. al** *Deep Image Prior* [[arxiv](https://arxiv.org/abs/1711.10925)]
 2. Test Images [Public-Domain Test Images for Homeworks and Projects](https://homepages.cae.wisc.edu/~ece533/images/)
